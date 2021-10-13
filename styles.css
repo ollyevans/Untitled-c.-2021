@@ -78,8 +78,7 @@ main {
 /* Caption text */
 .text {
   color: #000000;
-
-  padding: 8px 12px;
+  padding: 8px 0px 0px 0px;
   bottom: 8px;
   text-align: center;
 }
