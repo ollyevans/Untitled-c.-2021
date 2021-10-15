@@ -74,11 +74,3 @@ main {
 .next {
   right: 0;
 }
-
-/* Caption text */
-.text {
-  color: #000000;
-  padding: 8px 0px 0px 0px;
-  bottom: 8px;
-  text-align: center;
-}
